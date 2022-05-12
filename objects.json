@@ -1,0 +1,13 @@
+{
+    "processingDate": "2021-05-08",
+    "startTime": 1620458599323,
+    "shift": "10AM to 6:30Pm",
+    "installerName": "Aaditya Diwan",
+    "taskType": "Production",
+    "task": "CLAIMS_SLS",
+    "incidentNumber": 233151,
+    "faxNumber":123123 ,
+    "sendersEmailId": "aadityapdiwan@gmail.com",
+    "comment": "None",
+    "overTimeCheck" : false 
+}
